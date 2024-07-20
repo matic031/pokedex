@@ -3,7 +3,7 @@ Installation and setup,
 follow these steps to clone the repository, install dependencies, and run the application:
 
 ## 1. Clone the Repository
-`git clone https://gitlab.com/maticmajeric/pokedex.git && cd pokedex` 
+`git clone https://github.com/matic031/pokedex.git && cd pokedex` 
 ## 2. Copy environment variables
 `cp .env.example .env`
 ## 3. Install Sail, Dependencies, Run Migrations
